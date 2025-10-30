@@ -7,7 +7,7 @@ This project aims to **detect electricity theft** based on consumption patterns 
 - [Models Tested](https://github.com/FariaParvinMegha/Electricity_fraud/blob/main/README.md#models-tested)
 - [Results](https://github.com/FariaParvinMegha/Electricity_fraud/blob/main/README.md#results)
 - [Installation](https://github.com/FariaParvinMegha/Electricity_fraud/blob/main/README.md#installation)
-- [Usage](https://github.com/FariaParvinMegha/Electricity_fraud/blob/main/README.md#installation)
+- [Usage](https://github.com/FariaParvinMegha/Electricity_fraud/blob/main/README.md#usage)
 
 # Introduction
 Electricity theft is a significant issue that leads to energy losses and affects utility companies' operations and profitability. This project leverages machine learning to detect patterns in electricity consumption that may indicate theft. Multiple models were tested to determine the most effective approach, with 1D CNN yielding the highest accuracy.
