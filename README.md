@@ -2,7 +2,7 @@
 This project aims to detect electricity theft based on consumption patterns using machine learning models. The dataset is sourced from Smart Grid Corporation China, and various models have been tested to find the most accurate and efficient approach. The 1D CNN model provided the best results in terms of accuracy and performance.
 
 # Table of Contents
-- Introduction
+- Introduction (
 - Dataset
 - Models Tested
 - Results
@@ -17,8 +17,7 @@ The dataset for this project is provided by Smart Grid Corporation China. It con
 
 # Models Tested
 The following models were implemented and tested to compare their effectiveness:
-
-# Artificial Neural Network (ANN)
+- Artificial Neural Network (ANN)
 - 1D Convolutional Neural Network (1D CNN)
 - 2D Convolutional Neural Network (2D CNN)
 - Random Forest (RF)
